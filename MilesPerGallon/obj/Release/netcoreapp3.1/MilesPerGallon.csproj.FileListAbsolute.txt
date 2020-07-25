@@ -1,0 +1,12 @@
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MilesPerGallon\bin\Release\netcoreapp3.1\MilesPerGallon.exe
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MilesPerGallon\bin\Release\netcoreapp3.1\MilesPerGallon.deps.json
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MilesPerGallon\bin\Release\netcoreapp3.1\MilesPerGallon.runtimeconfig.json
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MilesPerGallon\bin\Release\netcoreapp3.1\MilesPerGallon.runtimeconfig.dev.json
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MilesPerGallon\bin\Release\netcoreapp3.1\MilesPerGallon.dll
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MilesPerGallon\bin\Release\netcoreapp3.1\MilesPerGallon.pdb
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MilesPerGallon\obj\Release\netcoreapp3.1\MilesPerGallon.AssemblyInfoInputs.cache
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MilesPerGallon\obj\Release\netcoreapp3.1\MilesPerGallon.AssemblyInfo.cs
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MilesPerGallon\obj\Release\netcoreapp3.1\MilesPerGallon.csproj.CoreCompileInputs.cache
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MilesPerGallon\obj\Release\netcoreapp3.1\MilesPerGallon.dll
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MilesPerGallon\obj\Release\netcoreapp3.1\MilesPerGallon.pdb
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MilesPerGallon\obj\Release\netcoreapp3.1\MilesPerGallon.genruntimeconfig.cache
