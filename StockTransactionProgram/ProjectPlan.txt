@@ -1,4 +1,4 @@
-﻿Stadium Seating
+﻿Stock Transaction Program
 ------------------------------------------------
 
 Input Variables

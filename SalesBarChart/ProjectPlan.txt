@@ -1,4 +1,4 @@
-﻿Stadium Seating
+﻿Sales Bar Chart
 ------------------------------------------------
 
 Input Variables

@@ -4,7 +4,6 @@ C:\Users\KR45H\Source\Repos\ProgrammingChallenges\StadiumSeating\bin\Debug\netco
 C:\Users\KR45H\Source\Repos\ProgrammingChallenges\StadiumSeating\bin\Debug\netcoreapp3.1\StadiumSeating.runtimeconfig.dev.json
 C:\Users\KR45H\Source\Repos\ProgrammingChallenges\StadiumSeating\bin\Debug\netcoreapp3.1\StadiumSeating.dll
 C:\Users\KR45H\Source\Repos\ProgrammingChallenges\StadiumSeating\bin\Debug\netcoreapp3.1\StadiumSeating.pdb
-C:\Users\KR45H\Source\Repos\ProgrammingChallenges\StadiumSeating\obj\Debug\netcoreapp3.1\StadiumSeating.csprojAssemblyReference.cache
 C:\Users\KR45H\Source\Repos\ProgrammingChallenges\StadiumSeating\obj\Debug\netcoreapp3.1\StadiumSeating.AssemblyInfoInputs.cache
 C:\Users\KR45H\Source\Repos\ProgrammingChallenges\StadiumSeating\obj\Debug\netcoreapp3.1\StadiumSeating.AssemblyInfo.cs
 C:\Users\KR45H\Source\Repos\ProgrammingChallenges\StadiumSeating\obj\Debug\netcoreapp3.1\StadiumSeating.csproj.CoreCompileInputs.cache
