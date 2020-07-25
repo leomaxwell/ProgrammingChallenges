@@ -1,0 +1,40 @@
+﻿Stadium Seating
+------------------------------------------------
+
+Input Variables
+-- const decimal ClassATicketPrice = 15.00;
+-- const decimal ClassBTicketPrice = 12.00;
+-- const decimal ClassCTicketPrice =  9.00;
+
+-- int classATicketsSold
+-- int classBTicketsSold
+-- int classCTicketsSold
+
+-- decimal classAIncome
+-- decimal classBIncome
+-- decimal classCIncome
+
+Processing
+-- classAIncome = (classATicketsSold * ClassATicketPrice);
+-- classBIncome = (classBTicketsSold * ClassBTicketPrice);
+-- classCIncome = (classCTicketsSold * ClassBTicketPrice);
+
+-- totalIncomeGenerated = (classAIncome + classBIncome + classCIncome);
+
+Output
+-- decimal totalIncomeGenerated
+
+----------------------------------------
+This program calculates the total revenu
+generated from the sale of ticket from 
+a soccer game. There are three classes of
+ticket. Enter the number of tickets sold
+from each class.
+----------------------------------------
+Class A Tickets: 25		// 25 * 15.00 = 375
+Class B Tickets: 30		// 30 * 12.00 = 360
+Class C Tickets: 16		// 16 * 9.00  = 144
+
+Total Income Generated: 879.00   // 375 + 360 + 144 
+
+Thank You!....

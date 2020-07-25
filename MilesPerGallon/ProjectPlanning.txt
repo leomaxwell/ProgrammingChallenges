@@ -1,0 +1,26 @@
+﻿MilesPerGallon
+___________________________
+
+Input Variables
+-- double maxGallons, 
+-- double fullTankMiles,
+
+Processing
+-- milesPerGallon = (fullTankMiles / maxGallons)
+
+Output
+-- double milesPerGallon
+
+----------------------------------------
+This program calculates a car's gas
+mileage based on the number of 
+gallons the car can hold (Maximum Gallons)
+and number of miles it can be driven on 
+full tank. (Miles on full tank).
+----------------------------------------
+Enter Maximum Gallons: 10
+Enter Miles on Full Tank: 150
+
+Your car Gas Mileage: 15
+
+Thank You!....
