@@ -1,0 +1,13 @@
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\StockTransactionProgram\bin\Debug\netcoreapp3.1\StockTransactionProgram.exe
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\StockTransactionProgram\bin\Debug\netcoreapp3.1\StockTransactionProgram.deps.json
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\StockTransactionProgram\bin\Debug\netcoreapp3.1\StockTransactionProgram.runtimeconfig.json
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\StockTransactionProgram\bin\Debug\netcoreapp3.1\StockTransactionProgram.runtimeconfig.dev.json
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\StockTransactionProgram\bin\Debug\netcoreapp3.1\StockTransactionProgram.dll
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\StockTransactionProgram\bin\Debug\netcoreapp3.1\StockTransactionProgram.pdb
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\StockTransactionProgram\obj\Debug\netcoreapp3.1\StockTransactionProgram.csprojAssemblyReference.cache
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\StockTransactionProgram\obj\Debug\netcoreapp3.1\StockTransactionProgram.AssemblyInfoInputs.cache
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\StockTransactionProgram\obj\Debug\netcoreapp3.1\StockTransactionProgram.AssemblyInfo.cs
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\StockTransactionProgram\obj\Debug\netcoreapp3.1\StockTransactionProgram.csproj.CoreCompileInputs.cache
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\StockTransactionProgram\obj\Debug\netcoreapp3.1\StockTransactionProgram.dll
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\StockTransactionProgram\obj\Debug\netcoreapp3.1\StockTransactionProgram.pdb
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\StockTransactionProgram\obj\Debug\netcoreapp3.1\StockTransactionProgram.genruntimeconfig.cache

@@ -1,0 +1,38 @@
+﻿Stadium Seating
+------------------------------------------------
+
+Input Variables
+-- int totalSharesPurchased = 100;
+-- decimal purchasePricePerShare = 32.87; 
+-- decimal salePricePerShare = 33.92;
+-- decimal brokerRate = (2 / 100);
+
+
+Processing
+-- stockPurchaseAmount = (totalSharesPurchased * purchasePricePerShare);
+-- commissionOnPurchase = (stockPurchaseAmount * brokerRate);
+-- stockSaleAmount = (totalSharesPurchased * salePricePerShare);
+-- commissionOnSale = (stockSaleAmount * brokerRate);
+-- transactionsNet = stockSaleAmount - (stockPurchaseAmount + commissionOnPurchase + commissionOnSale);
+
+Output
+-- decimal stockPurchaseAmount;
+-- decimal commissionOnPurchase;
+-- decimal stockSaleAmount;
+-- decimal commissionOnSale;
+-- decimal transactionsNet;
+
+
+----------------------------------------
+This program calculates and provide
+the Net Transaction Earnings on stocks
+traded by Joe in June, 2020.
+----------------------------------------
+Stock Purchase Amount: 
+Commission on Purchase: 
+Stock Sale Earnings: 
+Commission on Sale:
+
+Net Earnings on Trade:
+
+Thank You!....
