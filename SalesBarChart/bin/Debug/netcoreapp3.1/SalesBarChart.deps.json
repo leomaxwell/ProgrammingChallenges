@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SalesBarChart/1.0.0": {
+        "runtime": {
+          "SalesBarChart.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SalesBarChart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SalesBarChart\bin\Debug\netcoreapp3.1\SalesBarChart.exe
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SalesBarChart\bin\Debug\netcoreapp3.1\SalesBarChart.deps.json
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SalesBarChart\bin\Debug\netcoreapp3.1\SalesBarChart.runtimeconfig.json
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SalesBarChart\bin\Debug\netcoreapp3.1\SalesBarChart.runtimeconfig.dev.json
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SalesBarChart\bin\Debug\netcoreapp3.1\SalesBarChart.dll
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SalesBarChart\bin\Debug\netcoreapp3.1\SalesBarChart.pdb
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SalesBarChart\obj\Debug\netcoreapp3.1\SalesBarChart.csprojAssemblyReference.cache
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SalesBarChart\obj\Debug\netcoreapp3.1\SalesBarChart.AssemblyInfoInputs.cache
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SalesBarChart\obj\Debug\netcoreapp3.1\SalesBarChart.AssemblyInfo.cs
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SalesBarChart\obj\Debug\netcoreapp3.1\SalesBarChart.csproj.CoreCompileInputs.cache
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SalesBarChart\obj\Debug\netcoreapp3.1\SalesBarChart.dll
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SalesBarChart\obj\Debug\netcoreapp3.1\SalesBarChart.pdb
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SalesBarChart\obj\Debug\netcoreapp3.1\SalesBarChart.genruntimeconfig.cache

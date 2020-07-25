@@ -1,0 +1,36 @@
+﻿Stadium Seating
+------------------------------------------------
+
+Input Variables
+-- decimal store1Sale;
+-- decimal store2Sale;
+-- decimal store3Sale;
+
+-- int store1HundredsCount;
+-- int store2HundredsCount;
+-- int store3HundredsCount;
+
+Processing
+-- store1HundredsCount = (store1Sale / 100)
+-- store2HundredsCount = (store2Sale / 100)
+-- store3HundredsCount = (store3Sale / 100)
+
+Output
+-- Series of asterisks (*) based on number of hundreds.
+
+----------------------------------------
+This program display a bar graph comparing
+the sales of three stores, using an
+asterisks for every $100.
+----------------------------------------
+Enter today's sale for Store 1: 1000 [Enter]
+Enter today's sale for Store 2: 1200 [Enter]
+Enter today's sale for Store 3: 900 [Enter]
+
+Sale Bar Graph
+---------------------------------------
+Store 1: **********
+Store 2: ************
+Store 3: *********
+
+Thank You!....
