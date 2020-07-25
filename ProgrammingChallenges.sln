@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StadiumSeating", "StadiumSe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTransactionProgram", "StockTransactionProgram\StockTransactionProgram.csproj", "{14479F93-C785-4EC6-B8E5-C1359858EC80}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftwareSales", "SoftwareSales\SoftwareSales.csproj", "{513D54AD-E5C2-4EA0-B594-B67BB4B85C4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{14479F93-C785-4EC6-B8E5-C1359858EC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14479F93-C785-4EC6-B8E5-C1359858EC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14479F93-C785-4EC6-B8E5-C1359858EC80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{513D54AD-E5C2-4EA0-B594-B67BB4B85C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{513D54AD-E5C2-4EA0-B594-B67BB4B85C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{513D54AD-E5C2-4EA0-B594-B67BB4B85C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{513D54AD-E5C2-4EA0-B594-B67BB4B85C4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

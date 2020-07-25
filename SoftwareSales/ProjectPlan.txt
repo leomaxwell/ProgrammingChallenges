@@ -1,0 +1,34 @@
+﻿Software Sales
+------------------------------------------------
+
+Input Variables
+-- const decimal retailPrice = 99;
+-- int unitsPurchased;
+
+Processing
+-- subTotalCost = unitsPurchased * retailPrice;
+-- discountRate =
+		if(unitsPurchase between 10 and 29) ---> (20 / 100)
+		if(unitsPurchase between 30 and 49) ---> (30 / 100)
+		if(unitsPurchase between 50 and 99) ---> (40 / 100)	
+		if(unitsPurchase 100 or more) ---> (50 / 100)
+-- discount = subTotalCost * discountRate;
+-- totalCost = subTotalCost - discount;
+
+Output
+-- decimal subTotalCost
+-- decimal discountRate;
+-- decimal discount;
+-- decimal totalCost;
+
+----------------------------------------
+This program computes the total cost
+of purchase of package from a Software
+Company
+----------------------------------------
+Quantity:
+Sub Total:
+Discount:
+Total Cost: 
+
+Thank You!....

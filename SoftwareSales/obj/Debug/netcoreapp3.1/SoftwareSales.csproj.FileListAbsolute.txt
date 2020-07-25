@@ -1,0 +1,13 @@
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SoftwareSales\bin\Debug\netcoreapp3.1\SoftwareSales.exe
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SoftwareSales\bin\Debug\netcoreapp3.1\SoftwareSales.deps.json
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SoftwareSales\bin\Debug\netcoreapp3.1\SoftwareSales.runtimeconfig.json
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SoftwareSales\bin\Debug\netcoreapp3.1\SoftwareSales.runtimeconfig.dev.json
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SoftwareSales\bin\Debug\netcoreapp3.1\SoftwareSales.dll
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SoftwareSales\bin\Debug\netcoreapp3.1\SoftwareSales.pdb
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SoftwareSales\obj\Debug\netcoreapp3.1\SoftwareSales.csprojAssemblyReference.cache
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SoftwareSales\obj\Debug\netcoreapp3.1\SoftwareSales.AssemblyInfoInputs.cache
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SoftwareSales\obj\Debug\netcoreapp3.1\SoftwareSales.AssemblyInfo.cs
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SoftwareSales\obj\Debug\netcoreapp3.1\SoftwareSales.csproj.CoreCompileInputs.cache
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SoftwareSales\obj\Debug\netcoreapp3.1\SoftwareSales.dll
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SoftwareSales\obj\Debug\netcoreapp3.1\SoftwareSales.pdb
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\SoftwareSales\obj\Debug\netcoreapp3.1\SoftwareSales.genruntimeconfig.cache
