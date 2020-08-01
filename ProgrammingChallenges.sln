@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilesPerGallon", "MilesPerGallon\MilesPerGallon.csproj", "{BA5A3B9B-E01E-4D54-9590-B24D3027D501}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MilesPerGallon", "MilesPerGallon\MilesPerGallon.csproj", "{BA5A3B9B-E01E-4D54-9590-B24D3027D501}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StadiumSeating", "StadiumSeating\StadiumSeating.csproj", "{F8099D4D-5DD0-4FAD-BA28-3DB8A91BA919}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StadiumSeating", "StadiumSeating\StadiumSeating.csproj", "{F8099D4D-5DD0-4FAD-BA28-3DB8A91BA919}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTransactionProgram", "StockTransactionProgram\StockTransactionProgram.csproj", "{14479F93-C785-4EC6-B8E5-C1359858EC80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockTransactionProgram", "StockTransactionProgram\StockTransactionProgram.csproj", "{14479F93-C785-4EC6-B8E5-C1359858EC80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftwareSales", "SoftwareSales\SoftwareSales.csproj", "{513D54AD-E5C2-4EA0-B594-B67BB4B85C4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftwareSales", "SoftwareSales\SoftwareSales.csproj", "{513D54AD-E5C2-4EA0-B594-B67BB4B85C4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesBarChart", "SalesBarChart\SalesBarChart.csproj", "{40167CAC-8878-48AE-BC45-8B1663CFC8D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalesBarChart", "SalesBarChart\SalesBarChart.csproj", "{40167CAC-8878-48AE-BC45-8B1663CFC8D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkUp", "MarkUp\MarkUp.csproj", "{B47C819A-99A5-4E71-BF0A-334FDC2716FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{40167CAC-8878-48AE-BC45-8B1663CFC8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40167CAC-8878-48AE-BC45-8B1663CFC8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40167CAC-8878-48AE-BC45-8B1663CFC8D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B47C819A-99A5-4E71-BF0A-334FDC2716FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B47C819A-99A5-4E71-BF0A-334FDC2716FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B47C819A-99A5-4E71-BF0A-334FDC2716FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B47C819A-99A5-4E71-BF0A-334FDC2716FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
