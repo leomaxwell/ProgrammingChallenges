@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftwareSales", "SoftwareSa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalesBarChart", "SalesBarChart\SalesBarChart.csproj", "{40167CAC-8878-48AE-BC45-8B1663CFC8D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkUp", "MarkUp\MarkUp.csproj", "{B47C819A-99A5-4E71-BF0A-334FDC2716FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarkUp", "MarkUp\MarkUp.csproj", "{B47C819A-99A5-4E71-BF0A-334FDC2716FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMSimulator", "ATMSimulator\ATMSimulator.csproj", "{7EA16F74-3C1E-4C19-B3B2-9EE6F6C5101D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{B47C819A-99A5-4E71-BF0A-334FDC2716FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B47C819A-99A5-4E71-BF0A-334FDC2716FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B47C819A-99A5-4E71-BF0A-334FDC2716FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EA16F74-3C1E-4C19-B3B2-9EE6F6C5101D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA16F74-3C1E-4C19-B3B2-9EE6F6C5101D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA16F74-3C1E-4C19-B3B2-9EE6F6C5101D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA16F74-3C1E-4C19-B3B2-9EE6F6C5101D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

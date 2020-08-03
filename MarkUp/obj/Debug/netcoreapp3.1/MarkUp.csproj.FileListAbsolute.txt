@@ -1,0 +1,15 @@
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MarkUp\bin\Debug\netcoreapp3.1\MarkUp.exe
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MarkUp\bin\Debug\netcoreapp3.1\MarkUp.deps.json
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MarkUp\bin\Debug\netcoreapp3.1\MarkUp.runtimeconfig.json
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MarkUp\bin\Debug\netcoreapp3.1\MarkUp.runtimeconfig.dev.json
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MarkUp\bin\Debug\netcoreapp3.1\MarkUp.dll
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MarkUp\bin\Debug\netcoreapp3.1\MarkUp.pdb
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MarkUp\bin\Debug\netcoreapp3.1\ComaxICT.NetCore.Library.dll
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MarkUp\obj\Debug\netcoreapp3.1\MarkUp.csprojAssemblyReference.cache
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MarkUp\obj\Debug\netcoreapp3.1\MarkUp.AssemblyInfoInputs.cache
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MarkUp\obj\Debug\netcoreapp3.1\MarkUp.AssemblyInfo.cs
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MarkUp\obj\Debug\netcoreapp3.1\MarkUp.csproj.CoreCompileInputs.cache
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MarkUp\obj\Debug\netcoreapp3.1\MarkUp.csproj.CopyComplete
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MarkUp\obj\Debug\netcoreapp3.1\MarkUp.dll
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MarkUp\obj\Debug\netcoreapp3.1\MarkUp.pdb
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\MarkUp\obj\Debug\netcoreapp3.1\MarkUp.genruntimeconfig.cache

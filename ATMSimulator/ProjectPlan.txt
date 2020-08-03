@@ -1,0 +1,49 @@
+﻿ATM Simulator
+------------------------------------------------
+
+Class Name: BankAccount
+
+Fields:
+	private string _accountName;
+	private string _accountNumber; 
+	private string _pinCode
+	private decimal _accountBalance;
+
+Properties (ReadOnly)
+	public string AccountName { get; }
+	public string AccountNumber { get; }
+	public decimal AccountBalance {get; }
+	public string PinCode { get; }
+
+Constructor
+	public BankAccount(string name, string number, string pin, decimal intialDeposit)
+
+
+Methods
+	public bool Authenticate(string pin)
+	public decimal Deposit(decimal amount)
+	public decimal Withdraw(decimal amount) 
+
+
+	
+
+
+
+Input Variables
+-- string accountName;
+-- string accountNumber; 
+-- string pinCode
+-- decimal accountBalance;
+-- decimal amount;
+
+----------------------------------------
+Welcome to Comax Bank International
+Please specify your action.
+----------------------------------------
+1	Use ATM 1
+2	Create Account
+3	Exit
+----------------------------------------
+Enter Choice: _
+
+Thank You!....

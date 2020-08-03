@@ -1,0 +1,13 @@
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\ATMSimulator\bin\Debug\netcoreapp3.1\ATMSimulator.exe
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\ATMSimulator\bin\Debug\netcoreapp3.1\ATMSimulator.deps.json
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\ATMSimulator\bin\Debug\netcoreapp3.1\ATMSimulator.runtimeconfig.json
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\ATMSimulator\bin\Debug\netcoreapp3.1\ATMSimulator.runtimeconfig.dev.json
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\ATMSimulator\bin\Debug\netcoreapp3.1\ATMSimulator.dll
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\ATMSimulator\bin\Debug\netcoreapp3.1\ATMSimulator.pdb
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\ATMSimulator\obj\Debug\netcoreapp3.1\ATMSimulator.csprojAssemblyReference.cache
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\ATMSimulator\obj\Debug\netcoreapp3.1\ATMSimulator.AssemblyInfoInputs.cache
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\ATMSimulator\obj\Debug\netcoreapp3.1\ATMSimulator.AssemblyInfo.cs
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\ATMSimulator\obj\Debug\netcoreapp3.1\ATMSimulator.csproj.CoreCompileInputs.cache
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\ATMSimulator\obj\Debug\netcoreapp3.1\ATMSimulator.dll
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\ATMSimulator\obj\Debug\netcoreapp3.1\ATMSimulator.pdb
+C:\Users\KR45H\Source\Repos\ProgrammingChallenges\ATMSimulator\obj\Debug\netcoreapp3.1\ATMSimulator.genruntimeconfig.cache
