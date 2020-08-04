@@ -14,8 +14,7 @@ namespace ATMSimulator
         private string _pin;
         private decimal _balance;
 
-        private const decimal minimumBalance = 15m;
-
+        private const decimal _MinimumBalance = 15m;
 
         //Properties
         public string AccountName { get { return _name; } }
@@ -23,7 +22,16 @@ namespace ATMSimulator
         public decimal AccountBalance { get { return _balance; } }
         public string PinCode { get { return _pin; } }
 
+        public decimal AvailableBalance
+        {
+            get
+            {
+                return (AccountBalance - _MinimumBalance);
+            }
+        }
+
         //Constructor
+               
         public BankAccount(
             string name, string pin, decimal initialDeposit)
         {
@@ -32,7 +40,7 @@ namespace ATMSimulator
             if(initialDeposit < 15)
             {
                 throw new Exception("Account cannot be opened with a balance less than "
-                    + minimumBalance.ToString("C"));
+                    + _MinimumBalance.ToString("C"));
             }
 
             _name = name;
@@ -42,17 +50,16 @@ namespace ATMSimulator
         }
 
         //MethodsMethods
-        public bool Authenticate(string pin)
-        {
-            return true;
-        }
         public decimal Deposit(decimal amount)
         {
-            return 0m;
+            _balance += amount;
+            return _balance;
         }
+
         public decimal Withdraw(decimal amount)
         {
-            return 0m;
+            _balance -= amount;
+            return _balance;
         }
     }
 }

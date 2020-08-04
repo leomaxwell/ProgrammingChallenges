@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Runtime.InteropServices.WindowsRuntime;
+using System.Threading;
 
 namespace ATMSimulator
 {
@@ -35,7 +37,7 @@ namespace ATMSimulator
 
                     if (choice == "1")
                     {
-                        UseATM();
+                        UseATM(accounts);
                     }
                     else if (choice == "2")
                     {
@@ -146,17 +148,23 @@ namespace ATMSimulator
 
         }
 
-        public static void UseATM()
+        public static void UseATM(List<BankAccount> accountList)
         {
-            string pinCode;
-            decimal accountBalance;
-            decimal amount;
+            BankAccount customerAccount = null;
             string choice;
             string input;
-            bool run = true;
+            bool outerRun = true;
+            bool innerRun = true;
 
-            BankAccount selectedAccount = null;
+            do
+            {
+                customerAccount = ATMAuthenticateAccount(accountList);
+                Console.WriteLine("Account information provided is incorrect. Please try again.\n");
+            } while (customerAccount == null);
 
+
+
+            DisplayATMWelcomeMessage(customerAccount.AccountName);
             do
             {
                 choice = GetUserATMLevelActionChoice(); //Get User Choice
@@ -168,38 +176,69 @@ namespace ATMSimulator
                     Console.WriteLine("Choice is invalid, please try again.");
                     choice = GetUserATMLevelActionChoice(); //Get User Choice
                 }
+
                 do
                 {
                     if (choice == "1")
                     {
                         // Todo: Implement Account Balance;
-
+                        DisplayAccountBalance(customerAccount);
                     }
                     else if (choice == "2")
                     {
-                        //TO DO: Implement Withdrawal
+                        Withdraw(customerAccount);
                     }
                     else if (choice == "3")
                     {
-                        //TO DO: Implement Deposit
+                        Deposit(customerAccount);
                     }
                     else if (choice == "4")
                     {
                         Exit();
                     }
 
-                    Console.WriteLine("\n\nDo you want to perform another action? [Y] /[N]");
+                    Console.Write("\n\nDo you want to perform another action? [Y] /[N]: ");
                     input = Console.ReadLine();
-                    run = (input.ToUpper() == "Y");
-                } while (selectedAccount == null);
+                    innerRun = (input.ToUpper() == "Y");
+                } while (innerRun == true);
 
-            } while (run == true);
+            } while (outerRun == true);
         }
 
-        public static void DisplayATMWelcomeMessage()
+        public static BankAccount ATMAuthenticateAccount(
+            List<BankAccount> accountList)
+        {
+            string accountNo, pin;
+
+            // Message to the user
+            Console.WriteLine("------------------------------------------");
+            Console.WriteLine("Welcome to Comax Bank International ATM");
+            Console.WriteLine("Customer Authentication");
+            Console.WriteLine("------------------------------------------");
+
+            Console.WriteLine("Enter Account No.: ");
+            accountNo = Console.ReadLine();
+
+            Console.WriteLine("Enter Pin: ");
+            pin = Console.ReadLine();
+
+            foreach (var account in accountList)
+            {
+                if ((account.AccountNumber == accountNo)
+                    && account.PinCode == pin)
+                {
+                    return account;
+                }
+            }
+
+            return null;
+        }
+
+        public static void DisplayATMWelcomeMessage(string customerName)
         {
             // Message to the user
             Console.WriteLine("------------------------------------------");
+            Console.WriteLine("Hello " + customerName);
             Console.WriteLine("Welcome to Comax Bank International ATM");
             Console.WriteLine("Please provide your choice of action.");
             Console.WriteLine("------------------------------------------");
@@ -221,7 +260,7 @@ namespace ATMSimulator
 
         public static bool ATMLevelChoiceIsValid(string choice)
         {
-            if (choice == "1" || choice == "2" || 
+            if (choice == "1" || choice == "2" ||
                 choice == "3" || choice == "4")
             {
                 return true;
@@ -233,6 +272,47 @@ namespace ATMSimulator
 
         }
 
+        public static void DisplayAccountBalance(BankAccount account)
+        {
+            Console.WriteLine("Account Balance: "
+                + account.AvailableBalance.ToString("C"));
+        }
+
+        public static void Deposit(BankAccount account)
+        {
+            string input = "";
+            decimal amount;
+            Console.Write("Enter Amount: ");
+            input = Console.ReadLine();
+            decimal.TryParse(input, out amount);
+            account.Deposit(amount);
+        }
+
+        public static void Withdraw(BankAccount account)
+        {
+            string input = "";
+            bool accountHasEnoughBalance = true;
+            decimal amount;
+
+            do
+            {
+                Console.Write("Enter Amount: ");
+                input = Console.ReadLine();
+                decimal.TryParse(input, out amount);
+
+                if (amount > account.AvailableBalance)
+                {
+                    Console.WriteLine("Error: Insufficient Balance!!!");
+                    Console.WriteLine("Balance: " + account.AvailableBalance.ToString("C"));
+                    accountHasEnoughBalance = false;
+                }
+                else
+                {
+                    accountHasEnoughBalance = true;
+                    account.Withdraw(amount);
+                }
+            } while (accountHasEnoughBalance == false);
+        }
 
         public static void Exit()
         {
